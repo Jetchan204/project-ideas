@@ -1,21 +1,19 @@
 # <p align="center"> Project-Ideas </p>
 ## Ideas for various projects
 
-### Future Projects:
-
-#### Website
+### Website
 1) PHP 
 
-#### Stereotypical programming exercises
+### Stereotypical programming exercises
 1) Conway's Game of Life
 2) FizzBuzz
 
-#### Games
+### Games
 
-#### Mobile app
+### Mobile app
 
-#### Scripts, utilities, plug-ins
+### Scripts, utilities, plug-ins
 
-#### Employer-targeted code
+### Employer-targeted code
 
-#### Contributions to other users' projects
+### Contributions to other users' projects
