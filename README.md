@@ -1,7 +1,7 @@
 # <p align="center"> Project-Ideas </p>
 ## Ideas for various projects
 
-&rarr; ### Website &larr;
+### &rarr; Website &larr;
 
 1) My Java Notebook
 2) My C++ Notebook
@@ -9,7 +9,7 @@
 
 <br />
 
-### Stereotypical programming exercises
+### &rarr; Stereotypical programming exercises &larr;
 1) Conway's Game of Life
 2) FizzBuzz
 
