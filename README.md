@@ -1,7 +1,7 @@
 # <p align="center"> Project-Ideas </p>
 ## Ideas for various projects
 
-<font size="h3">&rarr;</font> ### Website <font size="h3">&larr;</font> 
+&rarr; ### Website &larr;
 
 1) My Java Notebook
 2) My C++ Notebook
