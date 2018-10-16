@@ -16,11 +16,11 @@
 <br />
 
 ### &rarr; Games &larr;
-#### 1) Game Development Tools  
-  a) Game Maker: Studio (~ C programming) <br />
-  b) Unity (C#) <br />
-  c) Godot Engine (custom Python-like language called GDScript) <br />
-  d) Unreal Engine 4
+1) #### Game Development Tools  
+  &emsp;&emsp; a. Game Maker: Studio (~ C programming) <br />
+  &emsp;&emsp; b. Unity (C#) <br />
+  &emsp;&emsp; c. Godot Engine (custom Python-like language called GDScript) <br />
+  &emsp;&emsp; d. Unreal Engine 4
 
 <br />
 
